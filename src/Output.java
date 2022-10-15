@@ -5,8 +5,7 @@ public class Output {
         System.out.println("Hello World!");
 
 
-        /*
-         
+/*       
 * Print Text
 ? You learned from the previous chapter that you can use the println() method to output values or print text in Java:
 ! System.out.println("Hello World!");
@@ -27,6 +26,14 @@ public class Output {
 ! System.out.print("Hello World! ");
 ! System.out.print("I will print on the same line.");
 
-         */
+* Print Numbers
+? You can also use the println() method to print numbers.
+? However, unlike text, we don't put numbers inside double quotes:
+! System.out.println(3);
+! System.out.println(358);
+! System.out.println(50000);
+? You can also perform mathematical calculations inside the println() method:
+! System.out.println(3 + 4);
+*/
     }
 }
