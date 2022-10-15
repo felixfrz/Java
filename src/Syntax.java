@@ -19,6 +19,12 @@ public class Syntax {
 ? For now, just remember that every Java program has a class name which must match the filename, and that every program must contain the main() method.
 * System.out.println
 ? Inside the main() method, we can use the println() method to print a line of text to the screen:
+
+* Note: The curly braces {} marks the beginning and the end of a block of code.
+
+*System is a built-in Java class that contains useful members, such as out, which is short for "output". The println() method, short for "print line", is used to print a value to the screen (or a file).
+
+*Don't worry too much about System, out and println(). Just know that you need them together to print stuff to the screen.
 */ 
 
 }
