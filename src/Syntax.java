@@ -7,6 +7,8 @@ public class Syntax {
         System.out.println("Hello World");
     }
 
+
+
 /* 
 !     Every line of code that runs in Java must be inside a class. In our example, we named the class Syntax. A class should always start with an uppercase first letter.
 
